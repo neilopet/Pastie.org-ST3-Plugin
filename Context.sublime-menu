@@ -1,0 +1,8 @@
+[
+	{ "caption": "-" , "id":"end-separator"},
+	{ 
+		"caption": "Submit to Pastie",
+		"command": "pastie_upload"
+	},
+	{ "caption": "-", "id": "end-separator" }
+]
